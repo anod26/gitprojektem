@@ -15,16 +15,16 @@ print $a + $b + $c;
 
 
 
-$x = 40;
-$y = 35;
+$x = 20;
+$y = 120;
 
-$z = 100;
+$z = 11;
 
 
 
 //kommenteltem
-print "<br><br>". $x - $y;
-print "konfliktus";
+print "<br><br>". $z - $y- $x;
+//print "konfliktus";
 
 
 ?>
