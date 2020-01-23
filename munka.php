@@ -23,7 +23,7 @@ $z = 11;
 
 
 //kommenteltem
-print "<br><br>". $z - $y- $x;
+print "<br><br>". $z - $y- $x."<br>";
 //print "konfliktus";
 
 
