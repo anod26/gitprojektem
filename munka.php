@@ -27,4 +27,25 @@ print "<br><br>". $z - $y- $x."<br>";
 //print "konfliktus";
 
 
+
+
+//szorzas:
+$egyik = 10;
+$masik= 10;
+
+print $egyik * $masik. "<br>";
+
+//Osztás
+
+$egy = 20;
+$ketto = 10;
+
+print ($egy / $ketto) . '<br>';
+
+
+
+
+
+
+
 ?>
