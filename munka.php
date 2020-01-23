@@ -22,4 +22,17 @@ print "<br><br>". $x - $y;
 print "konfliktus";
 
 
+
+//Osztás
+
+$egy = 20;
+$ketto = 10;
+
+print ($egy / $ketto) . '<br>';
+
+
+
+
+
+
 ?>
