@@ -22,4 +22,16 @@ print "<br><br>". $x - $y;
 print "konfliktus";
 
 
+
+//szorzas:
+$egyik = 10;
+$masik= 10;
+
+print $egyik * $masik. "<br>";
+
+
+
+
+
+
 ?>
