@@ -17,6 +17,11 @@ print $a + $b + $c;
 
 $x = 40;
 $y = 35;
+
+$z = 100;
+
+
+
 //kommenteltem
 print "<br><br>". $x - $y;
 print "konfliktus";
