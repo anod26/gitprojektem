@@ -20,3 +20,10 @@ $egyik = 10;
 $masik= 10;
 print $egyik * $masik. "<br>";
 ```
+
+```javascript
+var valami = 10;
+alert("felugró ablak");
+
+
+```
