@@ -14,3 +14,11 @@ tesztelés céljából
 2. lista elem
 3. lista elem
 4. lista elem
+
+```php
+$egyik = 10;
+$masik= 10;
+
+print $egyik * $masik. "<br>";
+
+```
