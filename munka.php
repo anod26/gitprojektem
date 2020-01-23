@@ -16,11 +16,37 @@ print $a + $b + $c + $d;
 
 
 
-$x = 40;
-$y = 35;
+$x = 20;
+$y = 120;
+
+$z = 11;
+
+
+
 //kommenteltem
-print "<br><br>". $x - $y;
-print "konfliktus";
+print "<br><br>". $z - $y- $x."<br>";
+//print "konfliktus";
+
+
+
+
+//szorzas:
+$egyik = 10;
+$masik= 10;
+
+print $egyik * $masik. "<br>";
+
+//Osztás
+
+$egy = 20;
+$ketto = 10;
+
+print ($egy / $ketto) . '<br>';
+
+
+
+
+
 
 
 ?>
