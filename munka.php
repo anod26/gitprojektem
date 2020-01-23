@@ -12,4 +12,11 @@ print $a + $b + $c;
 
 
 
+
+$x = 40;
+$y = 35;
+//kommenteltem
+print "<br><br>". $x - $y;
+
+
 ?>
