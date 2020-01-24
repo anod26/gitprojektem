@@ -10,6 +10,7 @@ $e = 40;
 
 $d = 100;
 $e = 100;
+//beírok egy kommentet
 
 
 print $a + $b + $c + $d;
