@@ -34,6 +34,7 @@ $z = 11;
 print "<br><br>". $z - $y- $x."<br>";
 //print "konfliktus";
 
+//bővült a kód
 
 
 
